@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66f3dc4-0736-4383-af64-e74114997e48" name="Default Changelist" comment="new pinger" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kHiqCImIUeN0EDCNrSukNA8s3H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pingercctvv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e66f3dc4-0736-4383-af64-e74114997e48" name="Default Changelist" comment="" />
+      <created>1605364105586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605364105586</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new pinger">
+      <created>1605858681612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605858681612</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new pinger">
+      <created>1605870770006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605870770006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new pinger">
+      <created>1605874943373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605874943373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updates to cctv pinger so it uses a combined list of cameras IP and descriptors. The old code for using arguments is still included for reference." />
+    <MESSAGE value="new pinger" />
+    <option name="LAST_COMMIT_MESSAGE" value="new pinger" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605440891907">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state x="444" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.958@0.25.1680.958" timestamp="1605440437326" />
+    <state x="444" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.959@0.25.1680.959" timestamp="1605440891907" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom" timestamp="1605876415578">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.25.1680.958@0.25.1680.958" timestamp="1605471550298" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1605870529903" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.25.1680.960@0.25.1680.960" timestamp="1605870448332" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1605876415578" />
+    <state width="1379" height="242" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1605871784459" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center" timestamp="1605876415577">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.25.1680.958@0.25.1680.958" timestamp="1605471550297" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1605870529902" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.25.1680.960@0.25.1680.960" timestamp="1605870448331" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1605876415577" />
+    <state width="1379" height="242" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1605871784458" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left" timestamp="1605876415577">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.25.1680.958@0.25.1680.958" timestamp="1605471550297" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1605870529901" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.25.1680.960@0.25.1680.960" timestamp="1605870448330" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1605876415577" />
+    <state width="1379" height="242" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1605871784458" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right" timestamp="1605876415577">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.25.1680.958@0.25.1680.958" timestamp="1605471550297" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1605870529902" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.25.1680.960@0.25.1680.960" timestamp="1605870448331" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1605876415577" />
+    <state width="1379" height="242" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1605871784459" />
+    <state width="1379" height="300" key="GridCell.Tab.1.bottom" timestamp="1605870475151">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1379" height="300" key="GridCell.Tab.1.bottom/0.25.1680.959@0.25.1680.959" timestamp="1605870475151" />
+    <state width="1379" height="300" key="GridCell.Tab.1.bottom/0.25.1680.960@0.25.1680.960" timestamp="1605870448328" />
+    <state width="1379" height="300" key="GridCell.Tab.1.center" timestamp="1605870475151">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1379" height="300" key="GridCell.Tab.1.center/0.25.1680.959@0.25.1680.959" timestamp="1605870475151" />
+    <state width="1379" height="300" key="GridCell.Tab.1.center/0.25.1680.960@0.25.1680.960" timestamp="1605870448327" />
+    <state width="1379" height="300" key="GridCell.Tab.1.left" timestamp="1605870475150">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1379" height="300" key="GridCell.Tab.1.left/0.25.1680.959@0.25.1680.959" timestamp="1605870475150" />
+    <state width="1379" height="300" key="GridCell.Tab.1.left/0.25.1680.960@0.25.1680.960" timestamp="1605870448327" />
+    <state width="1379" height="300" key="GridCell.Tab.1.right" timestamp="1605870475151">
+      <screen x="0" y="25" width="1680" height="959" />
+    </state>
+    <state width="1379" height="300" key="GridCell.Tab.1.right/0.25.1680.959@0.25.1680.959" timestamp="1605870475151" />
+    <state width="1379" height="300" key="GridCell.Tab.1.right/0.25.1680.960@0.25.1680.960" timestamp="1605870448328" />
+    <state x="367" y="137" key="SettingsEditor" timestamp="1605877300692">
+      <screen x="0" y="25" width="1680" height="965" />
+    </state>
+    <state x="367" y="137" key="SettingsEditor/0.25.1680.958@0.25.1680.958" timestamp="1605440363238" />
+    <state x="367" y="137" key="SettingsEditor/0.25.1680.959@0.25.1680.959" timestamp="1605436254879" />
+    <state x="367" y="137" key="SettingsEditor/0.25.1680.960@0.25.1680.960" timestamp="1605858105492" />
+    <state x="367" y="137" key="SettingsEditor/0.25.1680.965@0.25.1680.965" timestamp="1605877300692" />
+    <state x="345" y="248" key="Vcs.Push.Dialog.v2" timestamp="1605870785133">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="345" y="248" key="Vcs.Push.Dialog.v2/0.25.1680.964@0.25.1680.964" timestamp="1605870785133" />
+    <state x="145" y="152" width="1200" height="719" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605877161418">
+      <screen x="0" y="25" width="1680" height="965" />
+    </state>
+    <state x="145" y="152" width="1200" height="719" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.965@0.25.1680.965" timestamp="1605877161418" />
+    <state x="567" y="409" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605875033655">
+      <screen x="0" y="25" width="1680" height="965" />
+    </state>
+    <state x="567" y="409" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1680.965@0.25.1680.965" timestamp="1605875033655" />
+  </component>
+</project>
