@@ -5,6 +5,8 @@ import sys
 import threading
 from queue import Queue
 import csv
+from datetime import date
+
 
 # If no camera text file is passed as an argument then all cameras are tested
 # See files in cam sub-folder for possible camera lists
@@ -43,25 +45,36 @@ def fill_camera_details():
         reader = csv.reader(csv_file)
 
         for row in reader:
-            cam = {'camera Name': row[0], 'area': row[1], 'ip address': row[2], 'location': row[3]}
+            cam = {'Camera Name': row[0], 'Area': row[1], 'IP Address': row[2], 'Location': row[3]}
 
             all_cameras_cctv.append(cam)
     return all_cameras_cctv
 
 
+def save_cams_file(broken_cams):
+    filename = date.today()
+    with open(f'CCTV-{filename}.txt', 'w') as file_object:
+        for cam in broken_cams:
+            for k, v in cam.items():
+                file_object.write(f' {k} : {v} ')
+            file_object.write('\n\n')
+
 def fill_camera_queue(all_cameras):
     for cam in all_cameras:
         for k, v in cam.items():
-            if 'ip address' == k:
+            if 'IP Address' == k:
                 queue.put(v)
 
 
 def show_camera_details(cameras1, broken_cams):
+    duff_cameras = []
+
     for broken in broken_cams:
         for cam in cameras1:
             for k, v in cam.items():
-                if 'ip address' == k and v == broken:
-                    print(f'{cam}')
+                if 'IP Address' == k and v == broken:
+                    duff_cameras.append(cam)
+    return duff_cameras
 
 
 # worker function that pulls camera from queue and calls ping function
@@ -101,5 +114,6 @@ for thread in thread_list:
 # prints out list of broken cameras at end
 # at the moment the worker function also prints a message
 
-show_camera_details(cameras, broken_cameras)
+save_cams_file(show_camera_details(cameras, broken_cameras))
+
 # print("Non responsive cameras are: ", broken_cameras)

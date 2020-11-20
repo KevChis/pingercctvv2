@@ -1,0 +1,266 @@
+ Camera Name : J53-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.103  Location : PIB-352 
+
+ Camera Name : J54-CT-AM-0002  Area : UTILITY/EPC-13  IP Address : 192.168.100.105  Location : PIB-352 
+
+ Camera Name : J52-CT-AM-0002  Area : UTILITY/EPC-13  IP Address : 192.168.100.102  Location : PIB-352 
+
+ Camera Name : J52-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.101  Location : PIB-352 
+
+ Camera Name : J54-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.104  Location : PIB-352 
+
+ Camera Name : J95-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.106  Location : PIB-352 
+
+ Camera Name : J95-CT-AM-0002  Area : UTILITY/EPC-13  IP Address : 192.168.100.107  Location : PIB-352 
+
+ Camera Name : J40-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.108  Location : PIB-053 
+
+ Camera Name : J53-CT-AM-0002  Area : UTILITY/EPC-13  IP Address : 192.168.100.109  Location : PIB-053 
+
+ Camera Name : J50-CT-AM-0002  Area : UTILITY/EPC-13  IP Address : 192.168.100.111  Location : PIB-053 
+
+ Camera Name : J50-CT-AM-0001  Area : UTILITY/EPC-13  IP Address : 192.168.100.110  Location : PIB-053 
+
+ Camera Name : J10-CT-EC-0001  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.112  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0002  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.113  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0003  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.114  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0004  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.115  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0006  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.117  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0005  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.116  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0008  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.119  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0007  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.118  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0010  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.121  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0009  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.120  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0011  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.122  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0012  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.123  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0013  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.124  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0015  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.126  Location : PIB-010 
+
+ Camera Name : J10-CT-EC-0014  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.125  Location : PIB-010 
+
+ Camera Name : J12-CT-EC-0003  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.129  Location : PIB-014 
+
+ Camera Name : J12-CT-EC-0001  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.127  Location : PIB-014 
+
+ Camera Name : J12-CT-EC-0004  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.130  Location : PIB-014 
+
+ Camera Name : J12-CT-EC-0002  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.128  Location : PIB-014 
+
+ Camera Name : J12-CT-EC-0005  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.131  Location : PIB-014 
+
+ Camera Name : J14-CT-EC-0001  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.132  Location : PIB-014 
+
+ Camera Name : J23-CT-EC-0001  Area : DHT/EPC-11  IP Address : 192.168.100.135  Location : PIB-023 
+
+ Camera Name : J23-CT-EC-0002  Area : DHT/EPC-11  IP Address : 192.168.100.136  Location : PIB-023 
+
+ Camera Name : J14-CT-EC-0003  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.134  Location : PIB-014 
+
+ Camera Name : J14-CT-EC-0002  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.133  Location : PIB-014 
+
+ Camera Name : J23-CT-EC-0003  Area : DHT/EPC-11  IP Address : 192.168.100.137  Location : PIB-023 
+
+ Camera Name : J23-CT-EC-0004  Area : DHT/EPC-11  IP Address : 192.168.100.138  Location : PIB-023 
+
+ Camera Name : J20-CT-EC-0001  Area : HCK/EPC-10  IP Address : 192.168.100.141  Location : PIB-020 
+
+ Camera Name : J23-CT-EC-0005  Area : DHT/EPC-11  IP Address : 192.168.100.139  Location : PIB-023 
+
+ Camera Name : J20-CT-EC-0002  Area : HCK/EPC-10  IP Address : 192.168.100.142  Location : PIB-020 
+
+ Camera Name : J23-CT-EC-0006  Area : DHT/EPC-11  IP Address : 192.168.100.140  Location : PIB-023 
+
+ Camera Name : J20-CT-EC-0005  Area : HCK/EPC-10  IP Address : 192.168.100.145  Location : PIB-020 
+
+ Camera Name : J20-CT-EC-0003  Area : HCK/EPC-10  IP Address : 192.168.100.143  Location : PIB-020 
+
+ Camera Name : J20-CT-EC-0004  Area : HCK/EPC-10  IP Address : 192.168.100.144  Location : PIB-020 
+
+ Camera Name : J20-CT-EC-0006  Area : HCK/EPC-10  IP Address : 192.168.100.146  Location : PIB-020 
+
+ Camera Name : J20-CT-EC-0007  Area : HCK/EPC-10  IP Address : 192.168.100.147  Location : PIB-020 
+
+ Camera Name : J60-CT-AM-0001  Area : STF/EPC-05  IP Address : 192.168.100.149  Location : PIB-160 
+
+ Camera Name : J20-CT-EC-0008  Area : HCK/EPC-10  IP Address : 192.168.100.148  Location : PIB-020 
+
+ Camera Name : J60-CT-AM-0002  Area : STF/EPC-05  IP Address : 192.168.100.150  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0003  Area : STF/EPC-05  IP Address : 192.168.100.151  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0004  Area : STF/EPC-05  IP Address : 192.168.100.152  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0006  Area : STF/EPC-05  IP Address : 192.168.100.154  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0005  Area : STF/EPC-05  IP Address : 192.168.100.153  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0007  Area : STF/EPC-05  IP Address : 192.168.100.155  Location : PIB-160 
+
+ Camera Name : J05-CT-EC-0001  Area : CDU/EPC-09  IP Address : 192.168.100.158  Location : PIB-005 
+
+ Camera Name : J60-CT-AM-0008  Area : STF/EPC-05  IP Address : 192.168.100.156  Location : PIB-160 
+
+ Camera Name : J60-CT-AM-0009  Area : STF/EPC-05  IP Address : 192.168.100.157  Location : PIB-160 
+
+ Camera Name : J05-CT-EC-0002  Area : CDU/EPC-09  IP Address : 192.168.100.159  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0005  Area : CDU/EPC-09  IP Address : 192.168.100.162  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0003  Area : CDU/EPC-09  IP Address : 192.168.100.160  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0008  Area : CDU/EPC-09  IP Address : 192.168.100.165  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0004  Area : CDU/EPC-09  IP Address : 192.168.100.161  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0007  Area : CDU/EPC-09  IP Address : 192.168.100.164  Location : PIB-005 
+
+ Camera Name : J05-CT-EC-0006  Area : CDU/EPC-09  IP Address : 192.168.100.163  Location : PIB-005 
+
+ Camera Name : J69-CT-AM-0001  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.054  Location : PIB-034 
+
+ Camera Name : J77-CT-EC-0003  Area : FLARE(EPC-09)  IP Address : 192.168.100.053  Location : SS-077 
+
+ Camera Name : J77-CT-EC-0002  Area : FLARE(EPC-09)  IP Address : 192.168.100.052  Location : SS-077 
+
+ Camera Name : J77-CT-EC-0001  Area : FLARE(EPC-09)  IP Address : 192.168.100.166  Location : SS-077 
+
+ Camera Name : J69-CT-AM-0002  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.055  Location : PIB-034 
+
+ Camera Name : J33-CT-AM-0002  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.057  Location : PIB-034 
+
+ Camera Name : J33-CT-AM-0001  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.056  Location : PIB-034 
+
+ Camera Name : J33-CT-AM-0004  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.168  Location : PIB-034 
+
+ Camera Name : J34-CT-AM-0001  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.169  Location : PIB-034 
+
+ Camera Name : J34-CT-AM-0002  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.170  Location : PIB-034 
+
+ Camera Name : J33-CT-AM-0003  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.167  Location : PIB-034 
+
+ Camera Name : J34-CT-AM-0004  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.178  Location : PIB-034 
+
+ Camera Name : J34-CT-AM-0003  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.171  Location : PIB-034 
+
+ Camera Name : J04-CT-AM-0001  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.179  Location : PIB-034 
+
+ Camera Name : J04-CT-AM-0002  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.180  Location : PIB-034 
+
+ Camera Name : J04-CT-AM-0004  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.182  Location : PIB-034 
+
+ Camera Name : J04-CT-AM-0003  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.181  Location : PIB-034 
+
+ Camera Name : J30-CT-EC-1001  Area : SRU(IGC-02)  IP Address : 192.168.100.184  Location : PIB-030 
+
+ Camera Name : J04-CT-AM-0005  Area : SWS/ARU(EPC-02)  IP Address : 192.168.100.183  Location : PIB-034 
+
+ Camera Name : J30-CT-EC-1002  Area : SRU(IGC-02)  IP Address : 192.168.100.185  Location : PIB-030 
+
+ Camera Name : J30-CT-EC-2001  Area : SRU(IGC-02)  IP Address : 192.168.100.186  Location : PIB-030 
+
+ Camera Name : J30-CT-EC-3002  Area : SRU(IGC-02)  IP Address : 192.168.100.189  Location : PIB-030 
+
+ Camera Name : J30-CT-EC-3001  Area : SRU(IGC-02)  IP Address : 192.168.100.188  Location : PIB-030 
+
+ Camera Name : J30-CT-EC-2002  Area : SRU(IGC-02)  IP Address : 192.168.100.187  Location : PIB-030 
+
+ Camera Name : J60-CT-AM-0110  Area : NTF(EPC-04)  IP Address : 192.168.100.191  Location : PIB-460 
+
+ Camera Name : J30-CT-EC-4001  Area : SRU(IGC-02)  IP Address : 192.168.100.190  Location : PIB-030 
+
+ Camera Name : J60-CT-AM-0111  Area : NTF(EPC-04)  IP Address : 192.168.100.192  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0113  Area : NTF(EPC-04)  IP Address : 192.168.100.194  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0112  Area : NTF(EPC-04)  IP Address : 192.168.100.193  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0115  Area : NTF(EPC-04)  IP Address : 192.168.100.196  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0114  Area : NTF(EPC-04)  IP Address : 192.168.100.195  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0109  Area : NTF(EPC-04)  IP Address : 192.168.100.197  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0117  Area : NTF(EPC-04)  IP Address : 192.168.100.198  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0119  Area : NTF(EPC-04)  IP Address : 192.168.100.200  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0118  Area : NTF(EPC-04)  IP Address : 192.168.100.199  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0120  Area : NTF(EPC-04)  IP Address : 192.168.100.30  Location : PIB-460 
+
+ Camera Name : J60-CT-AM-0126  Area : NTF(EPC-04)  IP Address : 192.168.100.31  Location : PIB-460 
+
+ Camera Name : J55-CT-AM-0202  Area : NTF(EPC-04)  IP Address : 192.168.100.33  Location : PIB-055 
+
+ Camera Name : J55-CT-AM-0201  Area : NTF(EPC-04)  IP Address : 192.168.100.32  Location : PIB-055 
+
+ Camera Name : J55-CT-AM-0203  Area : NTF(EPC-04)  IP Address : 192.168.100.34  Location : PIB-055 
+
+ Camera Name : J60-CT-AM-0101  Area : NTF(EPC-04)  IP Address : 192.168.100.35  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0103  Area : NTF(EPC-04)  IP Address : 192.168.100.37  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0102  Area : NTF(EPC-04)  IP Address : 192.168.100.36  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0105  Area : NTF(EPC-04)  IP Address : 192.168.100.39  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0104  Area : NTF(EPC-04)  IP Address : 192.168.100.38  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0108  Area : NTF(EPC-04)  IP Address : 192.168.100.42  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0106  Area : NTF(EPC-04)  IP Address : 192.168.100.40  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0107  Area : NTF(EPC-04)  IP Address : 192.168.100.41  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0127  Area : NTF(EPC-04)  IP Address : 192.168.100.43  Location : PIB-260 
+
+ Camera Name : J60-CT-AM-0116  Area : NTF(EPC-04)  IP Address : 192.168.100.44  Location : PIB-360 
+
+ Camera Name : J60-CT-AM-0121  Area : NTF(EPC-04)  IP Address : 192.168.100.45  Location : PIB-360 
+
+ Camera Name : J60-CT-AM-0122  Area : NTF(EPC-04)  IP Address : 192.168.100.46  Location : PIB-360 
+
+ Camera Name : J60-CT-AM-0124  Area : NTF(EPC-04)  IP Address : 192.168.100.48  Location : PIB-360 
+
+ Camera Name : T95-CT-EC-002  Area : MRN/EPC-14  IP Address : 192.168.100.60  Location : TCCB 
+
+ Camera Name : T95-CT-EC-001  Area : MRN/EPC-14  IP Address : 192.168.100.50  Location : TCCB 
+
+ Camera Name : J60-CT-AM-0123  Area : NTF(EPC-04)  IP Address : 192.168.100.47  Location : PIB-360 
+
+ Camera Name : J60-CT-AM-0125  Area : NTF(EPC-04)  IP Address : 192.168.100.49  Location : PIB-360 
+
+ Camera Name : T95-CT-EC-003  Area : MRN/EPC-14  IP Address : 192.168.100.61  Location : TCCB 
+
+ Camera Name : T95-CT-EC-004  Area : MRN/EPC-14  IP Address : 192.168.100.62  Location : TCCB 
+
+ Camera Name : T95-CT-EC-005  Area : MRN/EPC-14  IP Address : 192.168.100.63  Location : TCCB 
+
+ Camera Name : T95-CT-EC-007  Area : MRN/EPC-14  IP Address : 192.168.100.65  Location : TCCB 
+
+ Camera Name : T95-TSSB-CT-EC-001  Area : MRN/EPC-14  IP Address : 192.168.100.66  Location : TCCB 
+
+ Camera Name : T95-TSSR-CT-EC-001  Area : MRN/EPC-14  IP Address : 192.168.100.67  Location : TCCB 
+
+ Camera Name : T95-CT-EC-006  Area : MRN/EPC-14  IP Address : 192.168.100.64  Location : TCCB 
+
+ Camera Name : J11-CT-EC-0001  Area : PAR/NAPHTA(EPC-12)  IP Address : 192.168.100.68  Location : PIB-10 
+
+ Camera Name : J55-CT-AM-0204  Area : NTF(EPC-04)  IP Address : 192.168.100.69  Location : PIB-055 
+
+ Camera Name : J55-CT-AM-0206  Area : NTF(EPC-04)  IP Address : 192.168.100.71  Location : PIB-055 
+
+ Camera Name : J55-CT-AM-0205  Area : NTF(EPC-04)  IP Address : 192.168.100.70  Location : PIB-055 
+
